@@ -1,6 +1,6 @@
 package homeworks;
 import java.util.Scanner;
-public class HomeWork2 {
+public class HomeWork1 {
         public static void main(String[] args) {
             String concatenatedResult;
 
